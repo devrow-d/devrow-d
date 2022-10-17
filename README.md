@@ -8,7 +8,7 @@ I enjoy developing data pipelines using RStudio and Pyhton and have developed SQ
 
 ## Languages & Packages
 
-* 🎺  RStudio;         * 🎷  SQL                       * 🎸  Tableau
+* 🎺  RStudio </a>    * 🎷  SQL </a>                       * 🎸  Tableau
 * 🎧  Python          * 🎻  MS Access                 * 👾  MatPlotLib
 * 🎮  GGPlot2         * 🎤  SAS Enterprise Miner      * ☎️  
 
