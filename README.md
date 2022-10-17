@@ -2,14 +2,18 @@
 
 I am a data analyst and machine learning engineer who feels strongly on the subjects of mechanical engineering, energy efficiencies and sustainability for a brighter future.
 
-Through my MSc Business Analytics program I have gained experience in statistics, advanced analytics & ML and data driven decision making using Linear Programming.
+Through my MSc Business Analytics program I have gained experience in statistics, advanced analytics & ML and data driven decision making using Linear Programming. Also including business management from HR to Operations Management and AI
 
 I enjoy developing data pipelines using RStudio and Pyhton and have developed SQL queries and database management skills in MS Access.
 
 
-# Languages & Packages
+## Languages & Packages
 
 RStudio, SQL, MSAccess, Python, GGPlot2, MatPlotLib, Tableau, SAS,
+
+## Contact
+
+[Darren Rowland's LinkedIn](www.linkedin.com/in/darren-rowland)
 
 <!--# Projects
 
