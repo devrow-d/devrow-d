@@ -6,10 +6,12 @@ Through my MSc Business Analytics program I have gained experience in statistics
 
 I enjoy developing data pipelines using RStudio and Pyhton and have developed SQL queries and database management skills in MS Access.
 
-
 ## Languages & Packages
 
-RStudio, SQL, MSAccess, Python, GGPlot2, MatPlotLib, Tableau, SAS,
+* 🎺  RStudio;         * 🎷  SQL                       * 🎸  Tableau
+* 🎧  Python          * 🎻  MS Access                 * 👾  MatPlotLib
+* 🎮  GGPlot2         * 🎤  SAS Enterprise Miner      * ☎️  
+
 
 ## Contact
 
