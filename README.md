@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Darren Rowland  
-
+<!-- Generator Source: https://profilinator.rishav.dev/ -->
 I am a data analyst and machine learning engineer who feels strongly on the subjects of mechanical engineering, energy efficiencies and sustainability for a brighter future.
 
 Through my MSc Business Analytics program I have gained experience in statistics, advanced analytics & ML and data driven decision making using Linear Programming. Also including business management from HR to Operations Management and AI
