@@ -23,7 +23,10 @@ I enjoy developing data pipelines using RStudio and Pyhton and have developed SQ
 - ❓ Ask me about anything related to AI Ethics, I'll have many questions in return  
   
 
-- ⚡ Fun fact: I'm a dark theme guy  
+- ⚡ Fun fact: I'm a dark theme guy
+
+
+- 🤔 I’m looking for help expanding my career into data analysis / mechine learning engineering
 
 <br/>  
 
