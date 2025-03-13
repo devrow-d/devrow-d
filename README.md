@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Darren Rowland  
 
-I am a mechanical engineer who feels strongly on the subjects of data analysis and machine learning, energy efficiencies and sustainability for a brighter future.
+I am a mechanical engineer who feels strongly on the subjects of data science and machine learning, energy efficiencies and sustainability for a brighter future.
 
 Through my MSc Business Analytics program I have gained experience in statistics, advanced analytics & ML and data driven decision making using Linear Programming. Also including business management from HR to Operations Management and AI
 
