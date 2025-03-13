@@ -13,11 +13,11 @@ I enjoy developing data pipelines using RStudio and Pyhton and have developed SQ
 ## Snapshot  
 
 
-- 🔭 I’m currently working on
+<!-- 🔭 I’m currently working on>
 <!--[INSERT PROJECT] github repository-->  
   
 
-- :robot: I’m currently building a donkeycar self driving car using RaspberryPi while experimenting with autopilots, neural networks, computer vision in Python.
+- :robot: I’m currently building a donkeycar self driving car with RaspberryPi using neural networks, computer vision in Python.
   
 
 - ❓ Ask me about anything related to AI Ethics, I'll have many questions in return  
