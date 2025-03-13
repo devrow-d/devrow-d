@@ -17,7 +17,7 @@ I enjoy developing data pipelines using RStudio and Pyhton and have developed SQ
 <!--[INSERT PROJECT] github repository-->  
   
 
-- 🌱 I’m currently learning about Microsoft Business Central & its potential applications in industry
+- :robot: I’m currently building a donkeycar self driving car using RaspberryPi while experimenting with autopilots, neural networks, computer vision in Python.
   
 
 - ❓ Ask me about anything related to AI Ethics, I'll have many questions in return  
@@ -26,7 +26,7 @@ I enjoy developing data pipelines using RStudio and Pyhton and have developed SQ
 - ⚡ Fun fact: I'm a dark theme guy
 
 
-- 🤔 I’m looking for help expanding my career into data analysis / mechine learning engineering
+- 🤔 I’m looking for help expanding my career into data science / mechine learning engineering
 
 <br/>  
 
