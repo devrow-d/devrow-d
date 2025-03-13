@@ -26,7 +26,7 @@ I enjoy developing data pipelines using RStudio and Pyhton and have developed SQ
 - ⚡ Fun fact: I'm a dark theme guy
 
 
-- 🤔 I’m looking for help expanding my career into data science / mechine learning engineering
+- 🤔 I’m looking for help expanding my career into data science / machine learning engineering
 
 <br/>  
 
