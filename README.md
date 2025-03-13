@@ -2,9 +2,9 @@
 
 I am a mechanical engineer who feels strongly on the subjects of data science and machine learning, energy efficiencies and sustainability for a brighter future.
 
-Through my MSc Business Analytics program I have gained experience in statistics, advanced analytics & ML and data driven decision making using Linear Programming. Also including business management from HR to Operations Management and AI
+Through my MSc Business Analytics program I have gained experience in statistics, advanced analytics & ML and data driven decision making using Linear Programming. Also including business management from HR to Operations Management and AI.
 
-I enjoy developing data pipelines using RStudio and Pyhton and have developed SQL queries and database management skills in MS Access.  
+I enjoy developing data pipelines using RStudio and Pyhton and have developed SQL queries and database management skills.  
   
 
 <br/>  
