@@ -58,7 +58,7 @@ I enjoy developing data pipelines using RStudio and Pyhton and have developed SQ
 <a href="https://github.com/devrow-d" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="linkedin.com/in/darren-rowland" target="_blank">
+<a href="[linkedin.com/in/darren-rowland"](https://www.linkedin.com/in/darren-rowland)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/@_rowlandd" target="_blank">
